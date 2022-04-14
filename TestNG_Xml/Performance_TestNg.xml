@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+	<test thread-count="5" name="First Performance Test">
+		<classes>
+			<class name="testrunner.Crash_performance_Testrunner" />
+		</classes>
+	</test>
+	<test thread-count="5" name="Second Performance Test">
+		<classes>
+			<class name="testrunner.Crash_performance_Testrunner" />
+		</classes>
+	</test><!-- Test -->
+	<test thread-count="5" name="Third Performance Test">
+		<classes>
+			<class name="testrunner.Crash_performance_Testrunner" />
+		</classes>
+	</test><!-- Test -->
+	<test thread-count="5" name="Fourth Performance Test">
+		<classes>
+			<class name="testrunner.Crash_performance_Testrunner" />
+		</classes>
+	</test><!-- Test -->
+	<test thread-count="5" name="Fivth Performance Test">
+		<classes>
+			<class name="testrunner.Crash_performance_Testrunner" />
+		</classes>
+	</test><!-- Test -->
+	<test thread-count="5" name="Sixth Performance Test">
+		<classes>
+			<class name="testrunner.Crash_performance_Testrunner" />
+		</classes>
+	</test><!-- Test -->
+	<test thread-count="5" name="Seventh Performance Test">
+		<classes>
+			<class name="testrunner.Crash_performance_Testrunner" />
+		</classes>
+	</test><!-- Test -->
+	<test thread-count="5" name="Eighth Performance Test">
+		<classes>
+			<class name="testrunner.Crash_performance_Testrunner" />
+		</classes>
+	</test><!-- Test -->
+</suite> <!-- Suite -->
